@@ -14,3 +14,11 @@ Navigate to the directory of the problem you are interested in to find the solut
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
