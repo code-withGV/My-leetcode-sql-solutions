@@ -9,6 +9,10 @@ This repository contains solutions to the SQL problems from LeetCode. Each probl
 - `03_big_countries`
 - `04_Invalid_Tweets`
 - `05_Article_Views_I`
+- `06_replace_employee_id_with_the_unique_identifier`
+- `07_product_sales_analysis_i`
+- `08_rising_temperature`
+- `09_not_boring_movies`
 - ...
 
 ## How to Use
