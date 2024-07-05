@@ -25,6 +25,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0584-find-customer-referee](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0595-big-countries) |
+| [1153-product-sales-analysis-i](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1827-invalid-tweets) |
