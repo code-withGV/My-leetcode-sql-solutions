@@ -13,6 +13,11 @@ This repository contains solutions to the SQL problems from LeetCode. Each probl
 - `07_product_sales_analysis_i`
 - `08_rising_temperature`
 - `09_not_boring_movies`
+- `10_Customer Who Visited but Did Not Make Any Transactions`
+- `11_Average Time of Process per Machine`
+- `12_Average Selling Price`
+- `13_Percentage of Users Attended a Contest`
+- `14_Employees Whose Manager Left the Company`
 - ...
 
 ## How to Use
@@ -42,16 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1827-invalid-tweets](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/2127-employees-whose-manager-left-the-company) |
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0001-two-sum) |
-## String
-|  |
-| ------- |
-| [1205-defanging-an-ip-address](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1205-defanging-an-ip-address) |
-<!---LeetCode Topics End-->
+
