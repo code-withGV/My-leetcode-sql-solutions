@@ -35,6 +35,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1161-project-employees-i](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Array
