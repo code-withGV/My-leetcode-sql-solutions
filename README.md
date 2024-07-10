@@ -38,6 +38,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0620-not-boring-movies](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1161-project-employees-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
