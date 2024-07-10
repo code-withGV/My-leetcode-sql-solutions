@@ -33,6 +33,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0620-not-boring-movies) |
