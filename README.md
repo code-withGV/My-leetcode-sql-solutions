@@ -52,6 +52,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1908-recyclable-and-low-fat-products](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Math
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->## Overview
 This repository contains solutions to the SQL problems from LeetCode. Each problem directory includes the problem description, solution, and an explanation of the SQL commands used.
 
