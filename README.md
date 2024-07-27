@@ -55,6 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0007-reverse-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
