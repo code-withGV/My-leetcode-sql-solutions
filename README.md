@@ -62,6 +62,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->## Overview
 This repository contains solutions to the SQL problems from LeetCode. Each problem directory includes the problem description, solution, and an explanation of the SQL commands used.
 
