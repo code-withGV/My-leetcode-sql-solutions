@@ -57,6 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0007-reverse-integer](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -70,6 +71,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/code-withGV/my-leetcode-sql-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->## Overview
 This repository contains solutions to the SQL problems from LeetCode. Each problem directory includes the problem description, solution, and an explanation of the SQL commands used.
 
